@@ -1,0 +1,2 @@
+Create a calculator
+SUPPORTED_OPERATIONS = "add", "subtract", "multiply", "divide" 
